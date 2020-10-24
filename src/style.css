@@ -5,6 +5,7 @@ html,body{
 }
 
 body{
+    margin: 0;
     background-image: url('./assets/images/fire-cloud.webp');
     background-position: center;
     background-size: cover;
